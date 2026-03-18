@@ -1,6 +1,5 @@
 streamlit
-crewai
-crewai-tools
-langchain-groq
+crewai[google-genai]>=1.10.0
+litellm
 python-dotenv
 pydantic
